@@ -21,6 +21,8 @@ Laravel installed globally.
 Installation
 Clone the repository:
 
+login password :swati@123
+
 bash
 Copy code
 git clone https://github.com/your-username/kanye-quotes.git
